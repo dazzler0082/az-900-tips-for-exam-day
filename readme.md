@@ -29,7 +29,7 @@ Microsoft offical page offers pretty good overview of the topics and offers also
 ## 3- Free Practice questions
 This is must before the exam. Spend at least 2-3 days before the exam.
 
-### 1-[examcatalog](https://www.itexams.com/exam/AZ-900](https://www.examcatalog.com/exam/microsoft/az-900/)
+### 1-[examcatalog](https://www.examcatalog.com/exam/microsoft/az-900/)
 
 ### 2-[examgo](https://www.examgo.com/exams/microsoft/az-900/)
 
