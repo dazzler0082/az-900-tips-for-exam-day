@@ -41,6 +41,7 @@ This is must before the exam. Spend at least 2-3 days before the exam.
 
 
 ## I also followed all the steps and got 930
+![alt text](https://github.com/dazzler0082/az-900-practice/blob/main/az900-path.png)
 
 
 
