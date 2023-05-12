@@ -17,12 +17,11 @@ Describe Azure management and governance (30–35%)
 
 ## 1-  Schedule an exam on Microsoft Official AZ-900 page
 Microsoft offical page offers pretty good overview of the topics and offers also some basic training.
-[Here](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
+[Microsoft official az 900 page](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
 
 ## 2- youtube Study - FreeCodeCamp 
-### 1- HarshArena 
 
-[Youtube Course For AZ-900]([https://www.youtube.com/channel/UChVlvP-HHRnQiA21x6V8nKA](https://www.youtube.com/watch?v=NKEFWyqJ5XA&t=188s))
+[Youtube Course For AZ-900](https://www.youtube.com/watch?v=NKEFWyqJ5XA&t=381s)
 
 
 
