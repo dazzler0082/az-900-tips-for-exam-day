@@ -3,7 +3,7 @@
 
 Microsoft  Azure Cloud Fundamentals Az-900 Study Notes
 
-# Study notes for the microsoft Azure Fundamentals exam - AZ-900
+# Study Tips for the microsoft Azure Fundamentals - tips before the exam - AZ-900
  This exam covers microsoft basic cloud consepts such as Azure architecture and services management and governance.
  
 
